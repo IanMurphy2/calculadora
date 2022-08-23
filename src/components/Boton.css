@@ -1,0 +1,26 @@
+.operadores__btn{
+    cursor: pointer;
+    color: black;
+    font-size: 2rem;
+    background-color: #c41fbe;
+    width: 7rem;
+    height: 7rem;
+}
+
+.numeros__btn{
+    cursor: pointer;
+    color: white;
+    font-size: 2rem;
+    background-color: #020024;
+    width: 7rem;
+    height: 7rem;
+}
+
+.clear__btn{
+    cursor: pointer;
+    color: black;
+    font-size: 2rem;
+    background-color: #6ed1ff;
+    width: 7rem;
+    height: 7rem;
+}
